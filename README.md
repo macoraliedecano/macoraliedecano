@@ -1,21 +1,45 @@
-<h1 align="center">Hi 👋, I'm Ma.Coralie Decano</h1>
-<h3 align="center">I'm a QA Engineer and quality is at the center of everything I do.</h3>
+# Hi there, I'm Ma.Coralie Decano 👋
+### Senior Quality Assurance Engineer | Software & Data Testing Specialist
 
-- 🔭 I’m currently working on **enhancing my AI automation skills**
+I am a results-driven **Quality Assurance Engineer** with **9+ years of experience** validating enterprise applications across healthcare, insurance, and technology domains. I specialize in end-to-end software quality assurance, REST/SOAP API testing, backend database validation (Oracle SQL), and WCAG accessibility standards. 
 
-- 🌱 I’m currently learning **artificial intelligence tools**
+Driven by the belief that quality serves business goals and end-users alike, I combine rigorous manual testing precision with modern automation frameworks and AI tooling to eliminate release risks before production.
 
-- 🤝 I’m looking for help with **automation testing**
+---
 
-- 📫 How to reach me **ma.coraliedecano@gmail.com**
+### 🛠️ Technical Stack & QA Capabilities
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gnR-BH20bqkJ_kVlXaiuZKuNLvbbaOF7/view?usp=sharing](https://drive.google.com/file/d/1gnR-BH20bqkJ_kVlXaiuZKuNLvbbaOF7/view?usp=sharing)
+* **Core QA & Testing:** Manual Testing, Functional, Integration (SIT), System Regression, Exploratory, UAT, End-to-End Workflows
+* **API & Data Testing:** REST & SOAP API Validation (Postman), Oracle SQL, AWS Cloud (RDS, S3, DynamoDB), XML/SFTP Feeds
+* **Automation & Tools:** Tricentis Tosca (Certified AS1), Power Apps, GenAI for Test Engineering, Selenium & Cucumber
+* **Defect & Project Management:** Jira, Confluence, ServiceNow, Salesforce, Agile/Scrum Methodologies
+* **Accessibility & Compliance:** WCAG Standards, NVDA Screen Reader, axe DevTools, ARC Toolkit, Colour Contrast Analyser
 
-- ⚡ Fun fact **I look like a 'sir' but I'm a 'ma'am'**
+---
 
-<h3 align="left">Connect with me:</h3> https://www.linkedin.com/in/ma-coralie-decano-2ab249125
-<p align="left">
-</p>
+### 🌟 Key Career Highlights
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
+* **Enterprise Integration Testing:** Validated complex backend data structures and REST/SOAP endpoints across multi-tier enterprise systems.
+* **Cloud & Database Validation:** Managed test data environments and executed SQL queries across AWS cloud infrastructure (S3, RDS, Lambda, DynamoDB).
+* **Automation Certification:** Earned certification in *Tricentis Tosca Fundamentals: Automating Web Application Testing (AS1)*.
+* **Internal Tooling:** Developed custom Microsoft Power Apps resources on SharePoint to streamline team tool discovery and workflow efficiency.
+
+---
+
+### 📜 Certifications & Continuous Learning
+
+* 🎓 **AI Automation Foundations** (Claude, GoHighLevel, Zapier, Apps Script) — *KeyPlayers (2026)*
+* 📜 **Tricentis Tosca Fundamentals: Automating Web Application Testing (AS1)** — *Accenture (2023)*
+* 📜 **Automation Testing Workshop: Selenium & Cucumber** — *MST Connect (2022)*
+* 📜 **Software Quality Assurance** — *Eclaro Business Solutions (2021)*
+* ☁️ **AWS Cloud Foundation Training**
+
+---
+
+### 📫 Let's Connect
+
+* **Location:** Metro Manila, Philippines
+* **Email:** [ma.coraliedecano@gmail.com](mailto:ma.coraliedecano@gmail.com)
+* **LinkedIn:** [Connect with me on LinkedIn](https://linkedin.com)
+
+*“Quality is at the center of everything I do—ensuring systems don't just work, but deliver real, measurable value.”*
