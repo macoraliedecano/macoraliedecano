@@ -28,11 +28,11 @@ Driven by the belief that quality serves business goals and end-users alike, I c
 
 ### 📜 Certifications & Continuous Learning
 
-* 🎓 **AI Automation Foundations** (Claude, GoHighLevel, Zapier, Apps Script) — *KeyPlayers (2026)*
-* 📜 **Tricentis Tosca Fundamentals: Automating Web Application Testing (AS1)** — *Accenture (2023)*
-* 📜 **Automation Testing Workshop: Selenium & Cucumber** — *MST Connect (2022)*
-* 📜 **Software Quality Assurance** — *Eclaro Business Solutions (2021)*
-* ☁️ **AWS Cloud Foundation Training**
+* 🎓 **AI Automation Foundations** (Claude, GoHighLevel, Zapier, Apps Script) — *KeyPlayers (September 2026)*
+* 📜 **Tricentis Tosca Fundamentals: Automating Web Application Testing (AS1)** — *Accenture (September 2023)*
+* 📜 **8-Hour Workshop in Automation Testing: Selenium & Cucumber** — *MST Connect (May 2022)*
+* 📜 **Software Quality Assurance** — *MST Connect (January 2022)*
+* ☁️ **AWS Cloud Foundation Training** — *Eclaro Business Solutions (October 2021)*
 
 ---
 
