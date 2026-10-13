@@ -1,5 +1,5 @@
 # Hi there, I'm Ma.Coralie Decano 👋
-### Senior Quality Assurance Engineer | Software & Data Testing Specialist
+### Quality Assurance Engineer | Software & Data Testing Specialist
 
 I am a results-driven **Quality Assurance Engineer** with **9+ years of experience** validating enterprise applications across healthcare, insurance, and technology domains. I specialize in end-to-end software quality assurance, REST/SOAP API testing, backend database validation (Oracle SQL), and WCAG accessibility standards. 
 
